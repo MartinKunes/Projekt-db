@@ -1,0 +1,16 @@
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\bin\Debug\FPVProjekt.exe.config
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\bin\Debug\FPVProjekt.exe
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\bin\Debug\FPVProjekt.pdb
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.csproj.AssemblyReference.cache
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.Form1.resources
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.Properties.Resources.resources
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.Zakaznik.resources
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.csproj.GenerateResource.cache
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.exe
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.pdb
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.Produkty.resources
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.Objednavky.resources
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.DObjednavky.resources
+C:\Users\marta\source\repos\FPVProjekt\FPVProjekt\obj\Debug\FPVProjekt.Vyrobce.resources

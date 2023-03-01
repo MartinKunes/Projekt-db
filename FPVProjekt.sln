@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPVProjekt", "FPVProjekt\FPVProjekt.csproj", "{AC8DBC2D-B114-44E0-8297-083860679A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8DBC2D-B114-44E0-8297-083860679A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8DBC2D-B114-44E0-8297-083860679A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8DBC2D-B114-44E0-8297-083860679A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8DBC2D-B114-44E0-8297-083860679A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {310EA402-71A1-43C8-A643-4F5DF69DBD24}
+	EndGlobalSection
+EndGlobal
